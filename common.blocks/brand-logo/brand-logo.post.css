@@ -3,5 +3,5 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
-	transition: .3s;
+	position: relative;
 }
