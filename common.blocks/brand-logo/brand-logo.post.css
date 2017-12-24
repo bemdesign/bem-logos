@@ -4,4 +4,12 @@
 	background-position: center center;
 	background-size: contain;
 	transition: .3s;
+	&_form {
+		&_round {
+			border-radius: 50%;	
+		}
+		&_mask {
+			border-radius: 18px;	
+		}
+	}
 }
